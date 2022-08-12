@@ -1,0 +1,14 @@
+{
+  "name": "docker-selenium-lambda-node",
+  "version": "1.0.0",
+  "description": "A simple demo of chrome automation with Node.js 16 and selenium in AWS Lambda",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hyde Wyvern",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.4.0"
+  }
+}
